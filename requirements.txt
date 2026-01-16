@@ -1,0 +1,5 @@
+mcp
+docling
+qdrant-client
+openai
+python-dotenv
